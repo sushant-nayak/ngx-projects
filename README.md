@@ -13,3 +13,8 @@ ng serve
 [http://127.0.0.1:4200/](http://127.0.0.1:4200/)
 
 You can customize the port with arguments
+
+### Creating component
+ng g c [component-name]
+E.g. -
+ng g c navbar 
